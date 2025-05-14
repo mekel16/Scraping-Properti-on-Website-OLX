@@ -11,7 +11,7 @@ silahan pilih kolasi dan kategori pada website:
 Setelah itu, copy linknya dan masukkan ke input pada kolom input
  - ![image](https://github.com/user-attachments/assets/b0274a1c-6195-42d5-ad77-e0482e9600fb)
  - ![image](https://github.com/user-attachments/assets/0bb9049c-5f58-4e2e-b547-672b479080ef)
-   Jika anda menggunakan streamlit. jika tidak menggunakan streamlit maka cukup copy di terminal
+ - masukkan linknya ke inputan muncul di atas kalo jupyter ipynb dan di terminal kalo yang py
 
 # Bagaimana code ini bekerja?
  - setelah anda klik mulai scrap atau run code
