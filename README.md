@@ -1,6 +1,6 @@
 # Scraping-Properti-on-Website-OLX
 
-# 🏠 Web Scraper Properti OLX Indonesia (Kalimantan Timur & Utara)
+# 🏠 Web Scraper Properti OLX Indonesia
 
 Scraper ini digunakan untuk mengumpulkan data listing properti dari [OLX.co.id](https://www.olx.co.id) secara otomatis, termasuk informasi seperti judul iklan, harga, lokasi, luas bangunan, luas tanah, tipe properti, dan tanggal posting. Cocok untuk keperluan analisis pasar properti atau data mining regional.
 
