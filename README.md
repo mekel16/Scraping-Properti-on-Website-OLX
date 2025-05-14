@@ -14,6 +14,7 @@ Scraper ini digunakan untuk mengumpulkan data listing properti dari [OLX.co.id](
 - Ekstraksi detail properti dari masing-masing halaman iklan
 - Simpan hasil scraping ke dalam file **CSV**
 - Progres scraping ditampilkan di terminal
+- tidak ada duplikad pada saat scrap karena sudah terfilter pada saat proses scraping
 
 ---
 
