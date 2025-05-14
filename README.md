@@ -1,22 +1,22 @@
-# Scraping-Properti-on-Website-OLX
 
-# 🏠 Web Scraper Properti OLX Indonesia
+# Web Scraper Properti OLX Indonesia
 
-Scraper ini digunakan untuk mengumpulkan data listing properti dari [OLX.co.id](https://www.olx.co.id) secara otomatis, termasuk informasi seperti judul iklan, harga, lokasi, luas bangunan, luas tanah, tipe properti, dan tanggal posting. Cocok untuk keperluan analisis pasar properti atau data mining regional.
+Scraper ini digunakan untuk mengumpulkan data listing properti dari OLX.co.id secara otomatis, termasuk informasi seperti judul iklan, harga, lokasi, luas bangunan, luas tanah, tipe properti, dan tanggal posting. Cocok untuk keperluan analisis pasar properti atau data mining regional.
 
----
-
-## 🚀 Fitur
+--- 
+# Fitur
 
 - Scrape listing properti dari kota/kabupaten tertentu di OLX
-- Klik otomatis tombol **"Load More"** sampai semua data termuat
-- Filter berdasarkan **lokasi** yang diambil dari URL
+- Klik otomatis tombol "Load More" sampai semua data termuat
+- Filter berdasarkan lokasi yang diambil dari URL
 - Ekstraksi detail properti dari masing-masing halaman iklan
-- Simpan hasil scraping ke dalam file **CSV**
+- Simpan hasil scraping ke dalam file CSV
 - Progres scraping ditampilkan di terminal
-- tidak ada duplikad pada saat scrap karena sudah terfilter pada saat proses scraping
+- tidak ada duplikad pada saat scrap karena - sudah terfilter pada saat proses scraping
 
 ---
+
+
 
 ## 🛠️ Requirements
 
