@@ -13,6 +13,22 @@ Setelah itu, copy linknya dan masukkan ke input pada kolom input
  - ![image](https://github.com/user-attachments/assets/0bb9049c-5f58-4e2e-b547-672b479080ef)
    Jika anda menggunakan streamlit. jika tidak menggunakan streamlit maka cukup copy di terminal
 
+# Bagaimana code ini bekerja?
+ - setelah anda klik mulai scrap atau run code
+ - code akan otomatis membuka website OLX yang anda masukkan
+ - setelah websitenya benar benar terbuka
+ - code akan otomatis melakukan klik pada button(load more)
+ - ![image](https://github.com/user-attachments/assets/8897aafd-487c-4f95-a5eb-048ccb724b00)
+ - setelah tidak ditemukan lagi tombol load more maka
+ - code akan mulai menemukan masing masing box berisi detail dari properti pada website
+ - ![image](https://github.com/user-attachments/assets/8b7ba198-5f79-448e-89f0-5c91816aa43a)
+ - code akan mengambil harga, tanggal, lokasi, dan judul dari box iklan tersebut
+ - nah untuk luas bangunan dan luas tanah didapatkan pada saat code melakukan klik pada box iklan lalu menuju ke detail yang lebih banyak
+ - ![image](https://github.com/user-attachments/assets/4315a5ef-5da6-4f0b-b27a-d677097a0c93)
+ - hal tersebut dilakukan untuk masing masing box yang tertera di layar/website
+
+
+
 
 
 
