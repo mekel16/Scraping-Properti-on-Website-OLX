@@ -27,22 +27,18 @@ Setelah itu, copy linknya dan masukkan ke input pada kolom input
  - ![image](https://github.com/user-attachments/assets/4315a5ef-5da6-4f0b-b27a-d677097a0c93)
  - hal tersebut dilakukan untuk masing masing box yang tertera di layar/website
 
+---
 
+# Hasil Scraping
 
-
-
-
-
-
-# Fitur
-
-- Scrape listing properti dari kota/kabupaten tertentu di OLX
-- Klik otomatis tombol "Load More" sampai semua data termuat
-- Filter berdasarkan lokasi yang diambil dari URL
-- Ekstraksi detail properti dari masing-masing halaman iklan
-- Simpan hasil scraping ke dalam file CSV
-- Progres scraping ditampilkan di terminal
-- tidak ada duplikad pada saat scrap karena - sudah terfilter pada saat proses scraping
+ - Title
+ - Tipe Properti
+ - Luas Bangunan
+ - Luas Tanah
+ - Price
+ - Location
+ - Link
+ - Tanggal
 
 ---
 
